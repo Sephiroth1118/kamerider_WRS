@@ -438,4 +438,3 @@ int main(int argc, char **argv)
 
 	humanNaviSample.run(argc, argv);
 };
-
